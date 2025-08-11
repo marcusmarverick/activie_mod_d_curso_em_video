@@ -1,7 +1,7 @@
 // Variaveis da pagina
 function carregar() {
   var msg = window.document.getElementaryById('msg')
-  var img = window.documentgetElementaryById('imagem')
+  var img = window.document.getElementaryById('imagem')
   var data = new Date()
   var hora + data.getHours()
   msg.innerHTML = `Agora são ${hora} horas!`
@@ -20,3 +20,4 @@ function carregar() {
         document.body.style.backgroud = '#'
   }
 } 
+
