@@ -8,7 +8,7 @@ header{
     text-align: center;
 }
 
-section{
+section{ /* Componente das div na HTML */
     background-color: aliceblue;
     border-radius: 10px;
     padding: 15px;
@@ -21,4 +21,5 @@ footer{
     color:aliceblue;
     text-align: center;
     font-style: italic;
+
 }
